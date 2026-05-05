@@ -12,7 +12,6 @@ Libraries (and their use):
 - Requests (Interacting with web servers)
 - Pandas (Dataframes)
 - Folium (Map Visualizations)
-- Sodapy > Socrata (NYC Open Data API)
 - Beautiful Soup > BS4 (Web Scraping)
 - Geopy > Nominatim (Geocoding)
   
