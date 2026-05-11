@@ -1,6 +1,6 @@
-Sitename,Address,Borough,Zip,Category,Longitude,Latitude
-DSNY Special Waste Drop-Off Site,74 Pike Slip,New York,10002,Special Waste,-73.9923233839406,40.7099070059109
-DSNY Special Waste Drop-Off Site,12015 31 Ave,Flushing,11354,Special Waste,-73.8471494631926,40.7710013528924
-DSNY Special Waste Drop-Off Site,1000 West Service Rd,Staten Island,10312,Special Waste,-74.1948192653765,40.5701296240937
-DSNY Special Waste Drop-Off Site,459 N Henry St,Brooklyn,11222,Special Waste,-73.9461380535929,40.7356555409138
-DSNY Special Waste Drop-Off Site,2 Farragut St,Bronx,10474,Special Waste,-73.8748588729107,40.8030613598415
+Sitename,Address,Borough,Zip,Longitude,Latitude,Category
+DSNY Special Waste Drop-Off Site,74 Pike Slip,New York,10002,-73.9923233839406,40.7099070059109,Special Waste
+DSNY Special Waste Drop-Off Site,12015 31 Ave,Flushing,11354,-73.8471494631926,40.7710013528924,Special Waste
+DSNY Special Waste Drop-Off Site,1000 West Service Rd,Staten Island,10312,-74.1948192653765,40.5701296240937,Special Waste
+DSNY Special Waste Drop-Off Site,459 N Henry St,Brooklyn,11222,-73.9461380535929,40.7356555409138,Special Waste
+DSNY Special Waste Drop-Off Site,2 Farragut St,Bronx,10474,-73.8748588729107,40.8030613598415,Special Waste
