@@ -47,7 +47,6 @@ Techniques:
   - special_waste.csv  
   - pharmaceuticals-syringes.csv  
   - NYC-ZIP.csv (for filtering out scraped data for only NYC locations) 
-  - Locations.csv
 
 ## Further uses
 I combined all the CSVs into a single dataset and converted it into a json file and used leaflet.js to display the data as a single interactive map in a web application that allows users to locate a drop-off center near them based on boroughs and categories. It would be great for this project to grow to include more item types (eg. lightbulbs, furniture etc) to provide a more comprehensive service. 
